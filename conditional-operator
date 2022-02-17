@@ -1,0 +1,2 @@
+# 4.1 Password (Step 4) - interesting solution
+print('Пароль принят' if input() == input() else 'Пароль не принят')
